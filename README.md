@@ -1,4 +1,4 @@
 
 # new project
-it was created from local system
+it was created from local system.
 
